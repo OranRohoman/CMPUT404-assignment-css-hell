@@ -22,3 +22,17 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+Sources:
+background image for gutenburg html
+https://cdn.wallpapersafari.com/67/65/Q2N1I7.jpg
+
+Panels for making css panels (Code used by Slugge and user3599534)
+https://stackoverflow.com/questions/24364626/html-css-div-panels
+
+For making two equal panels
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_two_columns
+
+
+
+
+

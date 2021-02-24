@@ -1,0 +1,50 @@
+  img
+  {
+    border: 4px inset yellowgreen;
+  }
+  html{
+    background-image: url("html1_background.jpg");
+    background-size: 1000x 1000px;
+  }
+
+  h2 {
+    border-bottom: 8px double #000000;
+    font-size: 150%; 
+    margin-top: 2em; 
+    margin-bottom: 1em;
+    font-style: Georgia, "Times New Roman", Times, serif;
+  }
+  div.chapter
+  {
+    font-size: x-large;
+    font-family:fantasy ;
+    border-style: inset;
+  
+  }
+  p
+  {
+    font-family: cursive;
+    font-size: large; 
+    color: #000000;
+    font-weight: bold;
+  }
+  a{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: x-large;
+    width :150px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  a.link
+  {
+    color:aqua; 
+  }
+  a.hover{
+    
+    color:#000000;
+  }
+  a.clicked
+  {
+    color:green;
+  }
