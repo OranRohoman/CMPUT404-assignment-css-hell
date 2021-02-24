@@ -21,8 +21,13 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+http://creativecommons.org/licenses/by-sa/4.0/
+
+
 
 Sources:
+========
 background image for gutenburg html
 https://cdn.wallpapersafari.com/67/65/Q2N1I7.jpg
 
